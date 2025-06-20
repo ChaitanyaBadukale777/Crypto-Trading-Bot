@@ -7,7 +7,7 @@ from bot import BasicBot
 logger = setup_logger()
 bot = BasicBot(API_KEY, API_SECRET, logger)
 
-st.title("📈 Binance Futures Testnet Trading Bot")
+st.title("📈 Crypto Trading Bot")
 st.markdown("Use this interface to place **market**, **limit**, and **stop-limit** orders on Binance Testnet.")
 
 st.sidebar.header("🔧 Order Settings")
