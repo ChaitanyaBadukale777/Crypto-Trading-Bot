@@ -736,3 +736,221 @@ Thank you very much!</p>
 2025-06-20 14:31:23,634 - ERROR - Market Order Failed: APIError(code=-2019): Margin is insufficient.
 2025-06-20 14:31:27,854 - ERROR - Market Order Failed: APIError(code=-2019): Margin is insufficient.
 2025-06-20 14:40:09,964 - ERROR - Market Order Failed: APIError(code=-2019): Margin is insufficient.
+2025-06-20 14:47:19,717 - ERROR - Error fetching balance: APIError(code=0): Invalid JSON error message from Binance: <!DOCTYPE html>
+<!-- saved from url=(0032)https://www.binance.com/en/error -->
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="format-detection" content="telephone=no,email=no,address=no">
+  <title>Binance</title>
+  <link rel="Shortcut Icon" href="https://www.binance.com/en/favicon.ico">
+  <style>
+    body {
+      margin: 0
+    }
+
+    .img {
+      width: 611px;
+      margin: 68px auto 0
+    }
+
+    .info {
+      width: 370px;
+      margin: 0 auto;
+      text-align: center;
+      font-family: Arial;
+    }
+
+    .info h3 {
+      margin: 0;
+      font-size: 25px;
+      color: #333;
+      font-weight: normal;
+    }
+
+    .info p {
+      font-size: 14px;
+      font-family: Arial;
+      color: #333;
+      line-height: 18px;
+      margin: 0
+    }
+
+    .info button {
+      margin-top: 20px;
+      width: 231px;
+      height: 34px;
+      background: #FFFFFF;
+      border: 1px solid #F0B90B;
+      box-sizing: border-box;
+      border-radius: 3px;
+      font-size: 14px;
+      line-height: 16px;
+      color: #F0B90B;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="img"><img alt="" src="/errorPages/404.jpg"></div>
+  <div class="info">
+    <h3>åºéå¦ï¼æ¨è®¿é®çç½é¡µä¸å­å¨ã</h3>
+    <p>Sorry! The page youâre looking for cannot be found.</p>
+    <a href="https://www.binance.com">
+      <button>Return to Binance home page</button>
+    </a>
+  </div>
+
+</body>
+
+</html>
+
+2025-06-20 14:53:03,469 - ERROR - Market Order Failed: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-06-20 14:53:34,601 - ERROR - Market Order Failed: APIError(code=-2019): Margin is insufficient.
+2025-06-20 14:53:37,738 - ERROR - Error fetching balance: APIError(code=0): Invalid JSON error message from Binance: <!DOCTYPE html>
+<!-- saved from url=(0032)https://www.binance.com/en/error -->
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="format-detection" content="telephone=no,email=no,address=no">
+  <title>Binance</title>
+  <link rel="Shortcut Icon" href="https://www.binance.com/en/favicon.ico">
+  <style>
+    body {
+      margin: 0
+    }
+
+    .img {
+      width: 611px;
+      margin: 68px auto 0
+    }
+
+    .info {
+      width: 370px;
+      margin: 0 auto;
+      text-align: center;
+      font-family: Arial;
+    }
+
+    .info h3 {
+      margin: 0;
+      font-size: 25px;
+      color: #333;
+      font-weight: normal;
+    }
+
+    .info p {
+      font-size: 14px;
+      font-family: Arial;
+      color: #333;
+      line-height: 18px;
+      margin: 0
+    }
+
+    .info button {
+      margin-top: 20px;
+      width: 231px;
+      height: 34px;
+      background: #FFFFFF;
+      border: 1px solid #F0B90B;
+      box-sizing: border-box;
+      border-radius: 3px;
+      font-size: 14px;
+      line-height: 16px;
+      color: #F0B90B;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="img"><img alt="" src="/errorPages/404.jpg"></div>
+  <div class="info">
+    <h3>åºéå¦ï¼æ¨è®¿é®çç½é¡µä¸å­å¨ã</h3>
+    <p>Sorry! The page youâre looking for cannot be found.</p>
+    <a href="https://www.binance.com">
+      <button>Return to Binance home page</button>
+    </a>
+  </div>
+
+</body>
+
+</html>
+
+2025-06-20 14:53:40,205 - ERROR - Error fetching balance: APIError(code=0): Invalid JSON error message from Binance: <!DOCTYPE html>
+<!-- saved from url=(0032)https://www.binance.com/en/error -->
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="format-detection" content="telephone=no,email=no,address=no">
+  <title>Binance</title>
+  <link rel="Shortcut Icon" href="https://www.binance.com/en/favicon.ico">
+  <style>
+    body {
+      margin: 0
+    }
+
+    .img {
+      width: 611px;
+      margin: 68px auto 0
+    }
+
+    .info {
+      width: 370px;
+      margin: 0 auto;
+      text-align: center;
+      font-family: Arial;
+    }
+
+    .info h3 {
+      margin: 0;
+      font-size: 25px;
+      color: #333;
+      font-weight: normal;
+    }
+
+    .info p {
+      font-size: 14px;
+      font-family: Arial;
+      color: #333;
+      line-height: 18px;
+      margin: 0
+    }
+
+    .info button {
+      margin-top: 20px;
+      width: 231px;
+      height: 34px;
+      background: #FFFFFF;
+      border: 1px solid #F0B90B;
+      box-sizing: border-box;
+      border-radius: 3px;
+      font-size: 14px;
+      line-height: 16px;
+      color: #F0B90B;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="img"><img alt="" src="/errorPages/404.jpg"></div>
+  <div class="info">
+    <h3>åºéå¦ï¼æ¨è®¿é®çç½é¡µä¸å­å¨ã</h3>
+    <p>Sorry! The page youâre looking for cannot be found.</p>
+    <a href="https://www.binance.com">
+      <button>Return to Binance home page</button>
+    </a>
+  </div>
+
+</body>
+
+</html>
+
+2025-06-20 15:00:58,952 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2025-06-20 15:01:01,555 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2025-06-20 15:01:05,875 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
