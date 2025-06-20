@@ -48,3 +48,7 @@ st.markdown("## 💰 Account Balance")
 if st.button("🔄 Get USDT Balance"):
     balance = bot.get_balance("USDT")
     st.write(balance)
+
+if st.button("Check Balance"):
+    balance = bot.get_balance("USDT")
+    st.write("Your Testnet Balance:", balance)
