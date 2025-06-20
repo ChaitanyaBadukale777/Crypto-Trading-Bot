@@ -8,7 +8,7 @@ class BasicBot:
         self.client = Client(api_key, api_secret)
 
         # ✅ Override correct HTTPS base URL
-        self.client.API_URL = "https://testnet.binance.vision"
+        self.client.API_URL = " https://testnet.binancefuture.com"
 
 
     def place_market_order(self, symbol, side, quantity):

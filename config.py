@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ✅ Binance Futures Testnet Base URL
-BASE_URL = "https://testnet.binance.vision"
+BASE_URL = " https://testnet.binancefuture.com"
 
 # ✅ API credentials (must match keys from testnet)
 API_KEY = os.getenv("BINANCE_API_KEY")
