@@ -1,0 +1,3 @@
+2025-06-20 17:02:34,325 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 17:02:45,128 - INFO - Market Order: {...}
+2025-06-20 17:03:20,587 - ERROR - Limit Order Failed: APIError(code=-2010): Account has insufficient balance
