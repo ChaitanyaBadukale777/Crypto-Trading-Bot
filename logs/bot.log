@@ -1068,3 +1068,17 @@ Thank you very much!</p>
 2025-06-20 16:04:14,106 - ERROR - Error fetching balance: APIError(code=None): None
 2025-06-20 16:04:15,654 - ERROR - Error fetching balance: APIError(code=None): None
 2025-06-20 16:04:20,478 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 16:06:49,307 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 16:06:51,374 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:06:52,519 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:08:14,184 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 16:08:15,630 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:10:52,381 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 16:10:54,468 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:10:55,366 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:14:31,114 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 16:14:32,599 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:14:33,599 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:17:51,825 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 16:17:53,345 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:17:54,516 - ERROR - Error fetching balance: APIError(code=None): None
