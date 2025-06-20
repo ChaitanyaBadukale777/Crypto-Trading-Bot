@@ -1,7 +1,6 @@
 from binance.client import Client
 from binance.enums import *
 from binance.exceptions import BinanceAPIException
-import logging
 from config import BASE_URL
 
 class BasicBot:

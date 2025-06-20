@@ -25,3 +25,23 @@
 2025-06-20 12:36:03,591 - ERROR - Market Order Failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
 2025-06-20 12:36:05,540 - INFO - Initialized Binance Futures Testnet Client
 2025-06-20 12:36:05,697 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2025-06-20 12:39:00,387 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:04,411 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:07,862 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:09,301 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:10,474 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:14,664 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:15,811 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:17,205 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:17,964 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:20,879 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:21,175 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2025-06-20 12:39:24,432 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:24,597 - ERROR - Market Order Failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-20 12:39:25,942 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:26,097 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2025-06-20 12:39:36,319 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:40,217 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:41,331 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:42,646 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:39:42,801 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
