@@ -1,14 +1,12 @@
 from binance.client import Client
 from binance.enums import *
 from binance.exceptions import BinanceAPIException
-from config import BASE_URL
 
 class BasicBot:
-    def __init__(self, api_key, api_secret, logger, testnet=True):
+    def __init__(self, api_key, api_secret, logger):
         self.logger = logger
-        self.client = Client(api_key, api_secret, testnet=testnet)
-        if testnet:
-            self.client.FUTURES_URL = "https://testnet.binancefuture.com/fapi"
+        self.client = Client(api_key, api_secret)
+        self.client.API_URL = "https://testnet.binancefuture.com/fapi"  # ✅ This is the correct base for Futures Testnet
         self.logger.info("Initialized Binance Futures Testnet Client")
 
     def place_market_order(self, symbol, side, quantity):
