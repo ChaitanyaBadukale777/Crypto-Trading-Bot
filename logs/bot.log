@@ -1065,3 +1065,6 @@ Thank you very much!</p>
 2025-06-20 16:02:00,891 - ERROR - Market Order Failed: APIError(code=None): None
 2025-06-20 16:02:03,023 - ERROR - Error fetching balance: APIError(code=None): None
 2025-06-20 16:02:04,455 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:04:14,106 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:04:15,654 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:04:20,478 - ERROR - Market Order Failed: APIError(code=None): None
