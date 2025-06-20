@@ -511,3 +511,4 @@ Thank you very much!</p>
 
 </html>
 
+2025-06-20 13:44:56,343 - ERROR - Market Order Failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
