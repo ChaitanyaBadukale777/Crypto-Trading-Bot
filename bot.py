@@ -6,7 +6,8 @@ class BasicBot:
     def __init__(self, api_key, api_secret, logger):
         self.logger = logger
         self.client = Client(api_key, api_secret)
-        self.client.FUTURES_URL = "https://testnet.binancefuture.com"
+
+        # ✅ Override correct HTTPS base URL
         self.client.API_URL = "https://testnet.binancefuture.com/fapi"
 
 

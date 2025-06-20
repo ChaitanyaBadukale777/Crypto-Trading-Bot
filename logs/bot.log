@@ -122,3 +122,31 @@
 </html>
 
 2025-06-20 12:45:18,476 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:58:59,723 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 12:59:02,068 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 12:59:06,170 - ERROR - Market Order Failed: APIError(code=0): Invalid JSON error message from Binance: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+ Sorry for the inconvenience.<br/>
+Please report this message and include the following information to us.<br/>
+Thank you very much!</p>
+<table>
+<tr>
+<td>URL:</td>
+<td>http://testnet.binancefuture.com/v1/order?quantity=3.0&amp;side=BUY&amp;symbol=BTCUSDT&amp;timestamp=1750424345934&amp;type=MARKET&amp;signature=553f110e272a6cd008f274039efad14eebd752e500c2b3a4556da98c3acf5a8d</td>
+</tr>
+<tr>
+<td>Server:</td>
+<td>tk_prod_dispatcher_pg</td>
+</tr>
+<tr>
+<td>Date:</td>
+<td>2025/06/20 12:59:06</td>
+</tr>
+</table>
+<hr/>Powered by Bengine<hr><center>tengine</center>
+</body>
+</html>
+
