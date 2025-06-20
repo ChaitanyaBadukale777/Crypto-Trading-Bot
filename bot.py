@@ -11,7 +11,7 @@ class BasicBot:
         self.client = Client(api_key, api_secret)
 
         # ✅ Set Testnet Base URL for Futures
-        self.client.FUTURES_URL = "https://testnet.binancefuture.com/fapi"
+        self.client.FUTURES_URL = "https://testnet.binancefuture.com"
 
     def place_market_order(self, symbol, side, quantity):
         try:

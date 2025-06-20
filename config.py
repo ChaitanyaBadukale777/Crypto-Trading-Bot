@@ -11,6 +11,9 @@ BASE_URL = "https://testnet.binancefuture.com/fapi"
 API_KEY = os.getenv("BINANCE_API_KEY")
 API_SECRET = os.getenv("BINANCE_API_SECRET")
 
+print(API_KEY, API_SECRET)
+
+
 # ✅ Sanity check (optional)
-if not API_KEY or not API_SECRET:
-    raise ValueError("❌ API Key or Secret not found in environment variables.")
+# if not API_KEY or not API_SECRET:
+#     raise ValueError("❌ API Key or Secret not found in environment variables.")
