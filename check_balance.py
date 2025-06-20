@@ -1,21 +1,23 @@
-from binance.client import Client
-from dotenv import load_dotenv
-import os
+import time
+import hmac
+import hashlib
+import requests
 
-# Load .env credentials
-load_dotenv()
-api_key = os.getenv("BINANCE_API_KEY")
-api_secret = os.getenv("BINANCE_API_SECRET")
+API_KEY = 'YOUR_API_KEY'
+API_SECRET = 'YOUR_SECRET_KEY'
 
-# Initialize Futures client
-client = Client(api_key, api_secret)
-client.FUTURES_URL = "https://testnet.binancefuture.com"
+BASE_URL = 'https://testnet.binancefuture.com'
+endpoint = '/fapi/v2/balance'
 
-# Fetch Futures balance
-try:
-    balance = client.futures_account_balance()
-    print("Your Futures Testnet Balance:\n")
-    for asset in balance:
-        print(f"{asset['asset']}: {asset['balance']} USDT")
-except Exception as e:
-    print(f"Error: {e}")
+timestamp = int(time.time() * 1000)
+query_string = f'timestamp={timestamp}'
+
+signature = hmac.new(API_SECRET.encode(), query_string.encode(), hashlib.sha256).hexdigest()
+url = f'{BASE_URL}{endpoint}?{query_string}&signature={signature}'
+
+headers = {
+    'X-MBX-APIKEY': API_KEY
+}
+
+response = requests.get(url, headers=headers)
+print(response.json())

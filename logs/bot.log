@@ -954,3 +954,114 @@ Thank you very much!</p>
 2025-06-20 15:00:58,952 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
 2025-06-20 15:01:01,555 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
 2025-06-20 15:01:05,875 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2025-06-20 15:31:05,257 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 15:31:07,562 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:31:09,844 - ERROR - Error fetching balance: APIError(code=0): Invalid JSON error message from Binance: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+ Sorry for the inconvenience.<br/>
+Please report this message and include the following information to us.<br/>
+Thank you very much!</p>
+<table>
+<tr>
+<td>URL:</td>
+<td>http://testnet.binancefuture.com/v1/balance?timestamp=1750433469686&amp;signature=f79aa73e3df39570dece896739c883db05ac718ce37328a4c7ebe6a97b0e717b</td>
+</tr>
+<tr>
+<td>Server:</td>
+<td>tk_prod_dispatcher_pg</td>
+</tr>
+<tr>
+<td>Date:</td>
+<td>2025/06/20 15:31:09</td>
+</tr>
+</table>
+<hr/>Powered by Bengine<hr><center>tengine</center>
+</body>
+</html>
+
+2025-06-20 15:38:03,301 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 15:38:05,510 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:38:14,816 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:48:23,157 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 15:48:24,963 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:48:26,212 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:48:39,534 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 15:48:41,205 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:48:42,393 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:49:02,464 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 15:49:04,332 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:49:05,245 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:50:27,014 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 15:50:28,820 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:50:30,161 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:50:39,970 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 15:51:46,090 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 15:51:48,120 - ERROR - Error fetching balance: APIError(code=0): Invalid JSON error message from Binance: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+ Sorry for the inconvenience.<br/>
+Please report this message and include the following information to us.<br/>
+Thank you very much!</p>
+<table>
+<tr>
+<td>URL:</td>
+<td>http://testnet.binancefuture.com/v1/balance?timestamp=1750434707966&amp;signature=5aa73f35b9470340c8aa372fef925961e4b6233de8069ed4dcee1aa534c7276c</td>
+</tr>
+<tr>
+<td>Server:</td>
+<td>tk_prod_dispatcher_pg</td>
+</tr>
+<tr>
+<td>Date:</td>
+<td>2025/06/20 15:51:48</td>
+</tr>
+</table>
+<hr/>Powered by Bengine<hr><center>tengine</center>
+</body>
+</html>
+
+2025-06-20 15:51:52,862 - ERROR - Error fetching balance: APIError(code=0): Invalid JSON error message from Binance: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+ Sorry for the inconvenience.<br/>
+Please report this message and include the following information to us.<br/>
+Thank you very much!</p>
+<table>
+<tr>
+<td>URL:</td>
+<td>http://testnet.binancefuture.com/v1/balance?timestamp=1750434712707&amp;signature=a8444b751b1ccb2373d272348613da96e34cf7eb5157655d6ee0b25ed8085ca1</td>
+</tr>
+<tr>
+<td>Server:</td>
+<td>tk_prod_dispatcher_pg</td>
+</tr>
+<tr>
+<td>Date:</td>
+<td>2025/06/20 15:51:52</td>
+</tr>
+</table>
+<hr/>Powered by Bengine<hr><center>tengine</center>
+</body>
+</html>
+
+2025-06-20 15:53:06,433 - ERROR - Market Order Failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-20 15:53:10,760 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2025-06-20 15:55:10,094 - ERROR - Market Order Failed: APIError(code=-5000): Path /fapi/v1/balance/v1/order, Method POST is invalid
+2025-06-20 15:55:15,335 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance/v1/balance, Method GET is invalid
+2025-06-20 15:55:17,307 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance/v1/balance, Method GET is invalid
+2025-06-20 15:56:16,210 - ERROR - Market Order Failed: APIError(code=-5000): Path /fapi/v1/balance/v1/order, Method POST is invalid
+2025-06-20 15:56:19,043 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance/v1/balance, Method GET is invalid
+2025-06-20 15:56:21,166 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance/v1/balance, Method GET is invalid
+2025-06-20 15:57:11,744 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 15:57:13,457 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 15:57:14,914 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:02:00,891 - ERROR - Market Order Failed: APIError(code=None): None
+2025-06-20 16:02:03,023 - ERROR - Error fetching balance: APIError(code=None): None
+2025-06-20 16:02:04,455 - ERROR - Error fetching balance: APIError(code=None): None
