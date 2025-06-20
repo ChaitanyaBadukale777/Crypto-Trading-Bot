@@ -9,7 +9,7 @@ class BasicBot:
         self.logger = logger
         self.client = Client(api_key, api_secret, testnet=testnet)
         if testnet:
-            self.client.FUTURES_URL = BASE_URL
+            self.client.FUTURES_URL = "https://testnet.binancefuture.com/fapi"
         self.logger.info("Initialized Binance Futures Testnet Client")
 
     def place_market_order(self, symbol, side, quantity):

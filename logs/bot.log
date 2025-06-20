@@ -1,3 +1,27 @@
 2025-06-20 17:02:34,325 - INFO - Initialized Binance Futures Testnet Client
 2025-06-20 17:02:45,128 - INFO - Market Order: {...}
 2025-06-20 17:03:20,587 - ERROR - Limit Order Failed: APIError(code=-2010): Account has insufficient balance
+2025-06-20 12:35:15,786 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:23,490 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:24,751 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:26,390 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:26,747 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:26,933 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:32,593 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:33,578 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:33,868 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:34,043 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:34,534 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:34,852 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:35,753 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:38,237 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:41,743 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:44,149 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:45,762 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:46,294 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:51,642 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:35:52,012 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
+2025-06-20 12:36:03,420 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:36:03,591 - ERROR - Market Order Failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-20 12:36:05,540 - INFO - Initialized Binance Futures Testnet Client
+2025-06-20 12:36:05,697 - ERROR - Error fetching balance: APIError(code=-5000): Path /fapi/v1/balance, Method GET is invalid
