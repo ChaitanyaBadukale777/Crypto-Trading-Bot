@@ -49,3 +49,26 @@ cd Crypto-Trading-Bot
 
 # Install required packages
 pip install -r requirements.txt
+```
+
+## Test the Bot
+To test connectivity and balance:
+```
+python test_bot.py
+```
+
+Sample Output :
+```
+✅ Connected to Binance Futures Testnet.
+USDT: Wallet = 15000.00000000
+```
+---
+
+## ⚠️ Notes
+This project uses Binance Testnet only – no real funds involved.
+
+Ensure you’ve enabled Futures in your testnet account.
+
+Disable IP restrictions for development use.
+
+Check precision requirements for symbols like BTCUSDT.
