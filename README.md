@@ -72,3 +72,8 @@ Ensure you’ve enabled Futures in your testnet account.
 Disable IP restrictions for development use.
 
 Check precision requirements for symbols like BTCUSDT.
+
+
+## 🧑‍💻 Author
+Chaitanya Badukale
+GitHub: @ChaitanyaBadukale777
