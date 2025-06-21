@@ -3,8 +3,8 @@ import hmac
 import hashlib
 import requests
 
-API_KEY = "Mt0nPd3ejn2HajrN3fxM3BMDgswJMvVZ0nN7p21gzvG3Vx0MBkIGL4Z2SBTfVjcv"
-API_SECRET = "cRmXZHe6UIODqCkN6vTcoMQ6P30W2Ssirh0oDrqZS2LGYQeoVoFDxtWMagqJMhCU"
+API_KEY = "your_api_key"  # Replace with your actual API key
+API_SECRET = "your_secret_key"  # Replace with your actual secret key
 
 BASE_URL = "https://testnet.binancefuture.com"
 endpoint = "/fapi/v2/balance"
